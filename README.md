@@ -25,6 +25,7 @@ This is every school's math and reading performances grouped by 9th-12th grade w
 ![reading scores by grade with THS 9th grade](https://github.com/ZiwenLyu/School_District_Analysis/blob/main/Resources/grade_summary_reading1.png)
 
 This is every school's math and reading scores grouped by 9th-12th grade after replacing THS 9th grade score. We can see that THS 9th grade scores become NaN.
+
 ![math scores by grade without THS 9th grade](https://github.com/ZiwenLyu/School_District_Analysis/blob/main/Resources/grade_summary_math2.png)
 ![reading scores by grade without THS 9th grade](https://github.com/ZiwenLyu/School_District_Analysis/blob/main/Resources/grade_summary_reading2.png)
 
